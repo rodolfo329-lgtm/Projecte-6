@@ -1,6 +1,6 @@
 # Curs: ASIX (Administració de Sistemes en Xarxa)   
 # Autor: Andres  
-# Data: 25/04/2025  
+# Data: 30/04/2025  
 # Versió: 1  
 
 # Descripció:
