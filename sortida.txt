@@ -1,0 +1,5 @@
+# Escriure en un fitxer
+lines = ["Primera línia\n", "Segona línia\n", "Tercera línia\n"]
+
+with open('sortida.txt', 'w') as fitxer:
+    fitxer.writelines(lines)

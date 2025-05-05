@@ -1,0 +1,7 @@
+# Llegir el contingut d'un fitxer
+try:
+    with open('missatge.txt', 'r') as fitxer:
+        contingut = fitxer.read()
+        print(contingut)
+except FileNotFoundError:
+    print("Error: El fitxer no existeix.")
